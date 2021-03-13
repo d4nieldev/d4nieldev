@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @d4nieldev
+- 👀 I’m interested in developing mainly web applications but a huge fan of python!
+- 🌱 I’m currently learning React and Java for enrichment
+- 💞️ I’m looking to collaborate on django projects
+- 📫 You can send me an email: danielohayon2016@gmail.com
